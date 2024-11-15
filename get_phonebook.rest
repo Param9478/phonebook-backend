@@ -1,0 +1,12 @@
+Get http://localhost:3002/api/phonebook
+
+###
+Delete http://localhost:3002/api/phonebook/4
+
+###
+Post http://localhost:3002/api/phonebook
+
+{
+    "name":"Harnav Singh",
+    "number":"4039189106"
+}
